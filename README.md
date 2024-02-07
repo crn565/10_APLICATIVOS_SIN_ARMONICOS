@@ -247,7 +247,7 @@ Asimismo, si comparamos GT y Pred para el DS de DEPS, las divergencias son muy i
 
 Figure 16- Comparison GT with Pred for DEPS
 
-**V. CONCLUSIONES**
+**CONCLUSIONES**
 
 En este trabajo en el ámbito de NILMTK, además de incorporar tanto las métricas como las herramientas disponibles en el toolkit, se ha incorporado como novedad, el nuevo formato de timestamp de 13 dígitos además de nuevos conversores y convertidores para las medidas obtenidas de OZM, de modo que así se elimina la barrera de entrada a todo aquel investigador que cuente con uno o varios OZM y desee acceder al NILM. Precisamente comparando los DS obtenidos (con o sin transitorios), se ha demostrado que el uso de armónicos puede mejorar el resultado de las métricas, dependiendo, eso sí, del aplicativo a considerar.
 
