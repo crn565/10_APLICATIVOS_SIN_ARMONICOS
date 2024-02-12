@@ -1,4 +1,4 @@
-En este repositorio (10_APLICATIVOS_SIN_ARMONICOS) se analiza el impacto de NO tomar los armónicos hasta el orden 50 de la tensión, corriente y potencia que nos ofrece el OZM v2(es decir  la nueva version de  oVm v2 que es la versión trifásica de oZM).
+En este repositorio (10_APLICATIVOS_SIN_ARMONICOS) se analiza el impacto de NO tomar los armónicos hasta el orden 50 de la tensión, corriente y potencia que nos ofrece el OZM v2 (es decir  la nueva version de  oVm v2 que es la versión trifásica de oZM).
 
 Destacar que en los cuadernos de Jupyter Notebook adjuntos, no solo está el código en Python sino también los resultados de ejecutar sobre el dataset DSUALM10H donde se han despreciado los armónicos. Asimismo, mencionar que para ejecutar este código necesitamos tener instalado el toolkit NILMTK (disponible también en Github), así como también disponer del nuevo dataset que ya no incluye los armónicos.
 
