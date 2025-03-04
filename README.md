@@ -1,4 +1,4 @@
-**Experiments with ozm v3 10 applications disregarding harmonics**
+**EXPERIMENTS WITH OZM V3 AND 10 APPLICATIONSS DISREGARDING HARMONICS**
 
 In this repository (10_APLICATIVOS_SIN_ARMONICOS) the impact of NOT taking harmonics up to order 50 of the voltage, current and power offered by OZM v2 (i.e. the new version of oVm v2 which is the three-phase version of oZM) is analysed.
 
@@ -310,7 +310,8 @@ In this work in the field of NILMTK, in addition to incorporating both the metri
 
 On the other hand, if we compare the results of the metrics obtained on DSUALM or DSUALMT, compared to the DS of IAWE or DEPS, the results are much worse in the latter, especially in terms of the sampling period required. The minimum error in the disaggregation in DSUALM also stands out, as well as the best values obtained for the MNEAP and RMSE metrics.
 
-**Publicaciones**
+
+**Publications**
 
 There is an article by me about the NILM using single-phase OZM hardware instead of OZM v2:
 
