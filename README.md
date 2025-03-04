@@ -1,4 +1,4 @@
-***EXPERIMENTS WITH OZM V3 AND 10 APPLICATIONSS DISREGARDING HARMONICS***
+###EXPERIMENTS WITH OZM V3 AND 10 APPLICATIONSS DISREGARDING HARMONICS###
 
 In this repository (10_APLICATIVOS_SIN_ARMONICOS) the impact of NOT taking harmonics up to order 50 of the voltage, current and power offered by OZM v2 (i.e. the new version of oVm v2 which is the three-phase version of oZM) is analysed.
 
