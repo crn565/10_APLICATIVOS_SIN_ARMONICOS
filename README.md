@@ -120,7 +120,7 @@ It is also interesting to look at the voltage, power and current graphs for all 
 
 Table 2-Data of all meters
 
-Finalmente, en este estudio se hace necesario estudiar la correlación de los datos, así como su relación con posibles cambios en el muestreo.
+Finally, in this study it is necessary to study the correlation of the data, as well as its relation to possible changes in sampling.
 
 ![Gráfico, Histograma Descripción generada automáticamente](media/f3a4da44a09f9489b6988dd032b63af2.png)
 
